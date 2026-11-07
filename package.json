@@ -1,7 +1,7 @@
 {
   "name": "kick-points-bot",
   "version": "1.0.0",
-  "description": "Bot for Kick points",
+  "description": "Bot for Kick points and automated responses",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
